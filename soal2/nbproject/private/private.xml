@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/D:/soal2/src/java/soal2/model/Koneksi.java</file>
+            <file>file:/D:/soal2/web/tampilJurusan.jsp</file>
+            <file>file:/D:/soal2/src/java/soal2/model/MatkulModel.java</file>
+            <file>file:/D:/soal2/web/tambahMhs.jsp</file>
+            <file>file:/D:/soal2/web/editFakultas.jsp</file>
+            <file>file:/D:/soal2/web/login.jsp</file>
+            <file>file:/D:/soal2/src/java/soal2/controller/JurusanController.java</file>
+            <file>file:/D:/soal2/web/editJurusan.jsp</file>
+            <file>file:/D:/soal2/web/tampilFakultas.jsp</file>
+            <file>file:/D:/soal2/web/editMhs.jsp</file>
+            <file>file:/D:/soal2/web/tambahJurusan.jsp</file>
+            <file>file:/D:/soal2/src/java/soal2/model/MhsModel.java</file>
+            <file>file:/D:/soal2/web/tambahFakultas.jsp</file>
+            <file>file:/D:/soal2/web/index.jsp</file>
+            <file>file:/D:/soal2/web/tambahMatkul.jsp</file>
+            <file>file:/D:/soal2/src/java/soal2/model/FakultasModel.java</file>
+            <file>file:/D:/soal2/src/java/soal2/controller/FakultasController.java</file>
+            <file>file:/D:/soal2/web/tampilMhs.jsp</file>
+            <file>file:/D:/soal2/src/java/soal2/controller/MatkulController.java</file>
+            <file>file:/D:/soal2/web/editMatkul.jsp</file>
+            <file>file:/D:/soal2/src/java/soal2/controller/MhsController.java</file>
+            <file>file:/D:/soal2/web/tampilMatkul.jsp</file>
+            <file>file:/D:/soal2/src/java/soal2/model/JurusanModel.java</file>
+        </group>
+    </open-files>
+</project-private>
